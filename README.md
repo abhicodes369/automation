@@ -1,1 +1,1 @@
-This is an python script that fetches data from an api endpoint and store it in the  PostgreSQL data warehouse using airflow
+This projects aims to fetch data from an api endpoint and store it in the  PostgreSQL data warehouse using airflow
